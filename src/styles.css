@@ -1,0 +1,321 @@
+.navegador{
+    min-height: 70px;
+    border-radius: 0 0 32px 0;
+    -webkit-box-shadow: 5px 0 10px rgb(0 0 0 / 10%);
+    box-shadow: 0 0 20px rgb(0 0 0 / 10%);
+    background: #1e00ff;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    align-items: center;
+    margin-top: -15px;
+}
+.APText{
+	    padding-top: 90px;
+        color: white;
+        padding-left: 5px;
+        font-size: 20px;
+}
+.Aprograma{
+	max-height: 50px;
+    vertical-align: middle;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Iboton{
+    max-height: 50px;
+    vertical-align: middle;
+    padding-top: 20px;
+    float: right;
+    padding-right: 30px;
+   
+}
+.Fbook{
+	padding: 0;
+    max-height: 50px;
+    vertical-align: middle;
+    padding-top: 20px;
+    float: right;
+    padding-right: 30px;
+}
+.Igram{
+	margin-right: 0;
+    padding: 0;
+    max-height: 50px;
+    vertical-align: middle;
+    padding-top: 20px;
+    float: right;
+    padding-right: 20px;
+}
+.Wpp{
+	margin-right: 0;
+	padding: 0;
+	max-height: 50px;
+	vertical-align: middle;
+	padding-top: 20px;
+    float: right;
+    padding-right: 20px;
+}
+.pic123{
+    border-radius: 1000px;
+    height: 300px;
+    border: 6px solid black;
+    margin-left: 400px;
+    margin-top: -200px;
+
+}
+.portada{
+    height: 500px;
+    width: 1150px;
+    border: 6px solid black;
+    margin: 20px;
+    margin-top: -10px;
+    margin-left: 50px;
+}
+.Nombre1{
+    padding-top: 10px;
+    color: black;
+    padding-left: 370px;
+    font-size: 40px;
+}
+.Boxtext1{    
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.LogoExp{
+    border-radius: 1000px;
+    height: 300px;
+    border: 10px solid black;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.Explab{
+    font-size: 30px;
+    margin-top: -250px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img1{
+    border-radius: 1000px;
+    height: 200px;
+    border: 4px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.desc1{
+    font-size: 20px;
+    margin-top: -190px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img2{
+    border-radius: 1000px;
+    height: 200px;
+    border: 4px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.desc2{
+    font-size: 20px;
+    margin-top: -190px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img3{
+    border-radius: 1000px;
+    height: 200px;
+    border: 4px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.desc3{
+    font-size: 20px;
+    margin-top: -190px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img4{
+    border-radius: 1000px;
+    height: 200px;
+    border: 4px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.desc4{
+    font-size: 20px;
+    margin-top: -190px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.img5{
+    border-radius: 1000px;
+    height: 200px;
+    border: 4px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.desc5{
+    font-size: 20px;
+    margin-top: -190px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.img6{
+    border-radius: 1000px;
+    height: 200px;
+    border: 4px solid black;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.desc6{
+    font-size: 20px;
+    margin-top: -190px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.hss1{
+    border-radius: 1000px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.ht1{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.hss2{
+    border-radius: 1000px;
+    height: 200px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.ht2{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.hss3{
+    border-radius: 1000px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.hss4{
+    border-radius: 1000px;
+    height: 200px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.hss5{
+    border-radius: 1000px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.hss6{
+    border-radius: 1000px;
+    height: 200px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.ht3{
+    font-size: 30px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.ht4{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.ht5{
+        font-size: 30px;
+        margin-left: 80px;
+        margin-top: 30px;
+}
+.ht6{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.ImgFinal{
+    border: 6px solid black;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.tfinal{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 270px;
+    margin-right: 300px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    border : 10px double black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
