@@ -1,0 +1,7 @@
+{
+    "/auth/*":{
+        "target":"https://frontendportfolio001.web.app",
+        "secure":"false",
+        "loglevel":"debug"
+    }
+}

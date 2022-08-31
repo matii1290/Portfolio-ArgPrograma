@@ -1,0 +1,21 @@
+.l1{
+    font-size: 20px;
+    padding-right: 55px;
+    color: #B4886B;
+    font-weight: bold;
+    width: 130px;
+    
+}
+.l2{
+    font-size: 20px;
+    padding-right: 23px;
+    color: #B4886B;
+    font-weight: bold;
+    width: 130px;
+}
+.container{
+    background-image: url(https://wallpaperaccess.com/full/679017.jpg);
+}
+.form-group{
+    padding-left: 90px;
+}
