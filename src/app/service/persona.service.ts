@@ -7,7 +7,7 @@ import { persona } from '../Model/persona.model';
   providedIn: 'root'
 })
 export class PersonaService {
-  URL =  'https://prueba010922.herokuapp.com/explab/';
+  URL =  'https://backendportfolio001.herokuapp.com/explab/';
 
   constructor(private http: HttpClient) { }
 
